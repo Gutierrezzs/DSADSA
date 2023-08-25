@@ -1,0 +1,35 @@
+
+
+.cabecario {
+    width: 99.6%;
+    height: 53px;
+    flex-shrink: 0;
+    background: #9A0BDD;
+}
+
+.esquerda {
+
+    width: 596px;
+    height: 780px;
+    flex-shrink: 0;
+    background: #9A0BDD;
+    display: inline-block;
+
+}
+
+.direita {
+display: inline-block;
+width: 1290px;
+height: 780px;
+background: #9A0BDD;
+margin: 5px;
+flex-shrink: 0;
+}
+
+.baixo {
+    width: 99.6%;
+    height: 50px;
+    flex-shrink: 0;
+    background: #9A0BDD;
+
+}
